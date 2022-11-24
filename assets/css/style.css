@@ -50,7 +50,7 @@ a {
 p {
   font-size: 16px;
 }
-/* replaced .hero class with id */
+/* replaced .hero class with id*/
 #hero {
   height: 800px;
   width: 100%;
@@ -93,7 +93,7 @@ article section h2 {
 article section img {
   max-height: 200px;
 }
-/* Changed benefits to aside */
+/* Changed benefits to aside, changed bgc to match article to increase contrast/accessability */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -102,7 +102,7 @@ aside {
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #2589bd;
+  background-color: #0072bb;
 }
 /* Combined aside margins */
 
@@ -131,7 +131,8 @@ footer {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
+/* Changed foooter h2 to h4 */
 
-footer h2 {
+footer h4 {
   font-size: 20px;
 }
