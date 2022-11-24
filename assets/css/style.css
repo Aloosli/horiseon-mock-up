@@ -93,7 +93,7 @@ article section h2 {
 article section img {
   max-height: 200px;
 }
-/* Changed benefits to aside, changed bgc to match article to increase contrast/accessability */
+/* Changed benefits to aside */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -102,7 +102,7 @@ aside {
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
+  background-color: #2589bd;
 }
 /* Combined aside margins */
 
