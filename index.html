@@ -10,12 +10,10 @@
   </head>
 
   <body>
-    <!--Added header element-->
-    <header>
-      <!--Removed .seo class, as not needed.-->
+    <!--Website header and nav -->
+    <header class="header">
+      <h1>Hori<span class="seo">seo</span>n</h1>
 
-      <h1>Hori<span>seo</span>n</h1>
-      <!--Changed this div to nav-->
       <nav>
         <ul>
           <li>
@@ -32,13 +30,16 @@
         </ul>
       </nav>
     </header>
-    <!--Changed this div to figure-->
 
-    <figure id="hero"></figure>
+    <figure class="hero">
+      <img
+        src="/assets/images/digital-marketing-meeting.jpg"
+        alt="Four people collaborating on a project"
+      />
+    </figure>
 
-    <!--Added article element-->
-    <article>
-      <!--Changed div to section-->
+    <!--Main services-->
+    <article class="content">
       <section id="search-engine-optimization">
         <img
           src="./assets/images/search-engine-optimization.jpg"
@@ -83,9 +84,8 @@
         </p>
       </section>
     </article>
-    <!---Added aside-->
-    <aside>
-      <!--Changed div to section-->
+    <!--Additional Benefits-->
+    <aside class="benefits">
       <section>
         <h3>Lead Generation</h3>
         <img src="./assets/images/lead-generation.png" alt="" />
@@ -111,6 +111,7 @@
         </p>
       </section>
     </aside>
+    <!--Footer section-->
     <footer>
       <h4>Made with ❤️️ by Horiseon</h4>
       <p>&copy; 2019 Horiseon Social Solution Services, Inc.</p>
