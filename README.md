@@ -11,14 +11,12 @@ To meet accessiblity standards we completed the following:
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
-
-
 ## Screenshot
 
 ![](./assets/images/horiseon_mockup.png)
 
 ## Deployment
 
+[View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://aloosli.github.io/horiseon-mock-up/)
 
-
-The project is deployed here:[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://aloosli.github.io/horiseon-mock-up/)
+![Skill](https://img.shields.io/badge/Skill-Beginner-orange?labelColor=Blue&style=flat)
