@@ -17,6 +17,6 @@ To meet accessiblity standards we completed the following:
 
 ## Deployment
 
-![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://aloosli.github.io/horiseon-mock-up/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://aloosli.github.io/horiseon-mock-up/)
 
 ![Skill](https://img.shields.io/badge/Skill-Beginner-orange?labelColor=Blue&style=flat)
